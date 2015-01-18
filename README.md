@@ -12,4 +12,11 @@ https://github.com/temmihoo/just-like-star-trek/blob/master/JLST%20Draft.pdf?raw
 
 The project also need lots of help, so join us...
 
+# The team
+
+Gaja Kochaniewicz, ideation, programming, rule design, system design
+Ivan Raul, programming at all levels
+Otso Jousimaa, electronics design, programming
+Teemu Hakala, ideation, hand waving and general annoyance
+
 IRC: #ELL-i@FreeNode
