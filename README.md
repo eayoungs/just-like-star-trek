@@ -8,6 +8,7 @@ Tired of running around the house at bedtime to shut everything down?
 
 We will solve it all, together! Join us!
 
+https://github.com/temmihoo/just-like-star-trek/blob/master/JLST%20Draft.pdf?raw=true
 
 The project also need lots of help, so join us...
 
